@@ -1,7 +1,7 @@
 <template>
 	<NcAppContent>
 		<div id="gradestracker">
-			<h1>Hello world!</h1>
+			<h1>Grades Tracker</h1>
 		</div>
 	</NcAppContent>
 </template>
